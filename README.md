@@ -1,4 +1,5 @@
 # Data-Intensive-Computing-Lab-3
+The report for this lab is available in the Documentation branch.
 
 In order to run the code clone the repo which can be found at:
 
