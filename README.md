@@ -1,4 +1,7 @@
 # Data-Intensive-Computing-Lab-3
+
+Completed by Arlo Eardley 1108472, Carel Ross 1106684 and Ryan Verpoort 1136745
+
 The report for this lab is available in the Documentation branch.
 
 In order to run the code clone the repo which can be found at:
